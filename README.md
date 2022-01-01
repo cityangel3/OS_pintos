@@ -1,8 +1,10 @@
 PintOS project (Sogang Univ) 
 ===============
-OS framework for the x86 ISA. 
-Created at Stanford Univ and developed at UC Berkeley.
-These are my private coursework for OS(cse4070).
+OS framework for the x86 ISA.   
+
+Created at Stanford Univ and developed at UC Berkeley.  
+
+These are my private coursework for OS(cse4070).  
 * project1
   + argument passing
   + user memory access
